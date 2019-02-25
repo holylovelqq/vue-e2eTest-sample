@@ -1,0 +1,28 @@
+10:11:30.897 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.14.0', revision: 'aacccce0'
+10:11:30.900 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4444
+2018-10-10 10:11:31.033:INFO::main: Logging initialized @395ms to org.seleniumhq.jetty9.util.log.StdErrLog
+10:11:31.310 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+10:11:31.812 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Login"
+}
+10:11:31.814 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 48367
+Only local connections are allowed.
+10:11:34.705 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+10:11:34.985 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 262173432a3db6b16a2afab414cbb8bf (org.openqa.selenium.chrome.ChromeDriverService)
+10:12:18.678 INFO [ActiveSessions$1.onStop] - Removing session 262173432a3db6b16a2afab414cbb8bf (org.openqa.selenium.chrome.ChromeDriverService)
+10:12:18.711 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Signin"
+}
+10:12:18.711 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 48754
+Only local connections are allowed.
+10:12:20.944 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+10:12:20.971 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session bfb406786f45c7d0197fa257c7f6a1e5 (org.openqa.selenium.chrome.ChromeDriverService)
+10:12:28.837 INFO [ActiveSessions$1.onStop] - Removing session bfb406786f45c7d0197fa257c7f6a1e5 (org.openqa.selenium.chrome.ChromeDriverService)
